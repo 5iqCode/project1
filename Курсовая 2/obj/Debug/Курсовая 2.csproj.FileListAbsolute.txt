@@ -1,0 +1,42 @@
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\bin\Debug\Курсовая 2.exe.config
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\bin\Debug\Курсовая 2.exe
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\bin\Debug\Курсовая 2.pdb
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\obj\Debug\Курсовая 2.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Form1.resources
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\obj\Debug\Курсовая 2.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\obj\Debug\Курсовая 2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\obj\Debug\Курсовая 2.exe
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\obj\Debug\Курсовая 2.pdb
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Добавить_строку.resources
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Изменить_строку.resources
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Укажите_путь_БД.resources
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Найти.resources
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Найти_по_дате.resources
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Покупатели.resources
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Общая_стоимость_продаж.resources
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Авторизация.resources
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\bin\Debug\База данных SQL для курсовой.mdf
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\bin\Debug\База данных SQL для курсовой_log.ldf
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\bin\Debug\Database2.mdf
+C:\Users\Пользователь\Desktop\Project\Курсовая 2\Курсовая 2\bin\Debug\Database2_log.ldf
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\bin\Debug\Database2.mdf
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\bin\Debug\Database2_log.ldf
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\bin\Debug\Курсовая 2.exe.config
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\bin\Debug\Курсовая 2.exe
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\bin\Debug\Курсовая 2.pdb
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\obj\Debug\Курсовая 2.csprojAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Form1.resources
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Авторизация.resources
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Добавить_строку.resources
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Изменить_строку.resources
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Найти_по_дате.resources
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Найти.resources
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Общая_стоимость_продаж.resources
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Покупатели.resources
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\obj\Debug\Курсовая_2.Укажите_путь_БД.resources
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\obj\Debug\Курсовая 2.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\obj\Debug\Курсовая 2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\obj\Debug\Курсовая 2.exe
+C:\Users\Пользователь\Desktop\Курсовая 2\Курсовая 2\Курсовая 2\obj\Debug\Курсовая 2.pdb
